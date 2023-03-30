@@ -51,6 +51,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bermanbenjamin&theme=dracula&show_icons=true" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bermanbenjamin&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
