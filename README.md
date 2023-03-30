@@ -55,6 +55,6 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: Berman Schultz](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berman-benjamin-schultz-486a27180/)](https://www.linkedin.com/in/berman-benjamin-schultz-486a27180/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bermanschultz29@gmail.com)](mailto:bermanschultz29@gmail.com)
+[![Linkedin: Berman Schultz](https://img.shields.io/badge/-BermanSchultz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berman-benjamin-schultz-486a27180/)](https://www.linkedin.com/in/berman-benjamin-schultz-486a27180/)
+[![Gmail Badge](https://img.shields.io/badge/-bermanschultz29@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bermanschultz29@gmail.com)](mailto:bermanschultz29@gmail.com)
 [![GitHub BermanBenjamin]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/bermanbenjamin)
